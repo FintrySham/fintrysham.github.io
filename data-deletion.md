@@ -167,19 +167,6 @@ If you're unsatisfied with our handling:
 **UK Users:** Information Commissioner's Office (ICO)  
 **California Users:** California Attorney General  
 
-## API Endpoints for Deletion
-
-For developers/automated requests:
-
-```
-POST /api/v1/user/delete
-Authorization: Bearer [token]
-{
-  "confirmation": "DELETE_MY_DATA",
-  "reason": "optional reason"
-}
-```
-
 ## Compliance Certifications
 
 E-Bikes Florence di John Shields complies with:
