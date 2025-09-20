@@ -5,7 +5,9 @@
 
 ## 1. Introduction
 
-Welcome to our mobile application service (the "App"). This Privacy Policy is provided by E-Bikes Florence di John Shields ("we," "our," or "us"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and services.
+Welcome to the E-Bikes Florence Creator Platform (the "App"). We are E-Bikes Florence di John Shields, a bicycle tour company in Florence, Italy, and this App connects our business with content creators who share their experiences with our tours on Instagram.
+
+Our mission is to boost local tourism in Florence by partnering with Instagram creators who document their E-Bikes Florence experiences, helping spread the word about our tours and the beautiful places we visit.
 
 **Contact Information:**  
 E-Bikes Florence di John Shields  
@@ -17,271 +19,185 @@ Email: ebikesflorence@gmail.com
 Phone: +39 344 345 5320  
 Data Protection Contact: John Shields
 
-## 2. Information We Collect
+## 2. Purpose of Our App
+
+Our App serves as a bridge between:
+- **Our Business**: E-Bikes Florence tours and experiences
+- **Content Creators**: Instagram users who take our tours and share their experiences
+- **Local Tourism**: Promoting Florence through authentic user-generated content
+
+We use Instagram integration to:
+- Verify creators who have experienced our tours
+- Showcase authentic content from real customers
+- Track the reach of user-generated content about our tours
+- Reward creators who help promote Florence tourism
 
-### 2.1 Information You Provide Directly
+## 3. Information We Collect
 
-- **Account Information:** Name, email address, username, password, profile photo
-- **Profile Information:** Business or personal information you choose to provide
-- **Content:** Information, photos, videos, and other content you submit
-- **Communications:** Messages and feedback you send to us
+### 3.1 Information You Provide Directly
 
-### 2.2 Information Collected Automatically
+- **Account Information:** Name, email address, phone number (for tour bookings)
+- **Creator Information:** Instagram username, profile link
+- **Tour Information:** Which tours you've taken, dates, experiences
+- **Content Attribution:** Links to your Instagram posts about our tours
+
+### 3.2 Information from Instagram
 
-- **Device Information:** Device type, operating system, unique device identifiers, mobile network information
-- **Location Data:** Location information when you use location-based features, with your permission
-- **Usage Data:** App features used, time spent, interactions with content
-- **Analytics Data:** Performance metrics, crash reports, usage patterns
-
-### 2.3 Information from Third Parties
-
-- **Instagram/Meta:** When you connect your Instagram account:
-  - Public profile information (username, profile picture, bio)
-  - Account metrics (if available)
-  - Posted content (as permitted)
-  - Analytics (for business/creator accounts)
-- **Other Services:** Information from integrated third-party services you authorize
-
-## 3. How We Use Your Information
-
-We use your information for the following purposes:
-
-### 3.1 Service Delivery
-- Provide and maintain App functionality
-- Enable features and services
-- Process transactions and requests
-- Facilitate user interactions
-
-### 3.2 Account Management
-- Create and manage your account
-- Authenticate users and ensure security
-- Send service-related communications
-- Provide customer support
-
-### 3.3 Personalization and Improvement
-- Personalize user experience
-- Improve our services
-- Develop new features
-- Conduct analytics and research
-
-### 3.4 Marketing and Communications
-- Send promotional materials (with your consent)
-- Notify about new features or updates
-- Share relevant information
-
-### 3.5 Legal and Safety
-- Comply with legal obligations
-- Enforce our Terms of Service
-- Prevent fraud and abuse
-- Protect rights and safety of users
-
-## 4. Legal Basis for Processing (GDPR)
+When you connect your Instagram account, we access:
+- **Public Profile Information:** Username, profile picture, account type
+- **Business/Creator Account Metrics:** Follower count, engagement rates (if applicable)
+- **Posted Content:** Only posts where you tag @ebikesflorence or use our hashtags
+- **Insights:** Reach and engagement on posts featuring our tours (for creator accounts only)
+
+### 3.3 Information Collected Automatically
 
-For users in the European Economic Area (EEA), we process your data under the following legal bases:
+- **Device Information:** Device type, operating system for app functionality
+- **Usage Data:** How you interact with our app, which features you use
+- **Location Data:** Only when you're on a tour (with permission) to enhance the experience
+
+## 4. How We Use Your Information
+
+### 4.1 To Connect Creators with Our Business
+- Identify Instagram creators who have taken our tours
+- Track user-generated content about E-Bikes Florence
+- Measure the impact of creator content on local tourism
+- Provide rewards or incentives to active creators
+
+### 4.2 To Enhance Tour Experiences
+- Personalize tour recommendations
+- Connect creators with similar interests
+- Showcase the best content from our tours
+- Improve our tour offerings based on feedback
+
+### 4.3 To Promote Florence Tourism
+- Share creator content (with permission) to promote Florence
+- Build a community of Florence tourism ambassadors
+- Support local businesses through increased visibility
+- Document the authentic Florence experience
 
-- **Consent:** For marketing communications, cookies, and optional features
-- **Contract Performance:** To provide the services you've requested
-- **Legitimate Interests:** For analytics, security, and service improvements
-- **Legal Obligations:** To comply with applicable laws and regulations
+### 4.4 Marketing and Communications
+- Send tour updates and special offers
+- Notify creators about reward opportunities
+- Share tips for creating better Florence content
+- Build relationships with content creators
+
+## 5. Legal Basis for Processing (GDPR)
 
-## 5. How We Share Your Information
+As an Italian business, we process your data under GDPR with these legal bases:
+
+- **Consent:** For Instagram integration and marketing communications
+- **Contract Performance:** To manage tour bookings and creator rewards
+- **Legitimate Interests:** To promote local tourism and improve our services
+- **Legal Obligations:** To comply with Italian tax and business regulations
 
-We share your information in the following circumstances:
+## 6. How We Share Your Information
 
-### 5.1 With Your Consent
-- When you explicitly agree to sharing
-- Public content you choose to post
-- Information you make publicly visible
+### 6.1 Within Our Tourism Network
+- With partner businesses in Florence (only with your consent)
+- Featured creator content on our website and social media
+- Tourism boards for Florence promotion (anonymized data)
 
-### 5.2 Service Providers
-- Cloud hosting services
-- Analytics providers
-- Payment processors (where applicable)
-- Email service providers
-- Customer support tools
+### 6.2 Service Providers
+- Instagram/Meta (for account integration)
+- Email service providers (for communications)
+- Cloud storage (for content and data)
+- Payment processors (for creator rewards)
 
-### 5.3 Business Partners
-- Third-party services you connect
-- Instagram/Meta (for connected features)
-- Other platforms you authorize
+### 6.3 Legal Requirements
+- Italian tax authorities (for business records)
+- Law enforcement (when legally required)
+- To protect our rights or safety
 
-### 5.4 Legal Requirements
-- Law enforcement agencies (when legally required)
-- In response to legal process
-- To protect our rights or user safety
+## 7. Creator Content and Rights
 
-### 5.5 Business Transfers
-- In connection with mergers, acquisitions, or asset sales
+### 7.1 Your Content
+- You retain ownership of all content you create
+- By connecting your account, you grant us permission to showcase your public posts about our tours
+- You can request removal of your content from our platform at any time
+- We will always credit you as the creator
 
-## 6. Data Retention
+### 7.2 How We Use Creator Content
+- Feature on our website and app
+- Share on our social media (with attribution)
+- Include in Florence tourism promotion materials
+- Use for improving our tour experiences
 
-We retain your information for as long as necessary to provide our services and comply with legal obligations:
+## 8. Data Retention
 
-- **Account Data:** Active as long as account exists, deleted 30 days after account deletion request
-- **Content:** Retained while account is active, removed upon request
-- **Transaction Data:** As required for tax and legal compliance
-- **Analytics Data:** 24 months
-- **Marketing Data:** Until consent withdrawn
+- **Account Data:** Kept while you're active with us, deleted 30 days after deletion request
+- **Tour Records:** 7 years for Italian tax compliance
+- **Creator Content Links:** Until you request removal
+- **Instagram Data:** Refreshed regularly, deleted when you disconnect
 
-## 7. Your Rights and Choices
+## 9. Your Rights Under GDPR
 
-### 7.1 GDPR Rights (EEA Users)
-- **Access:** Request a copy of your personal data
-- **Rectification:** Correct inaccurate data
-- **Erasure:** Request deletion of your data ("right to be forgotten")
-- **Restriction:** Limit processing of your data
-- **Portability:** Receive your data in machine-readable format
-- **Objection:** Object to certain processing activities
-- **Automated Decision-Making:** Not be subject to automated decisions
+As we're based in Italy (EU), you have these rights:
 
-### 7.2 California Privacy Rights (CCPA)
-California residents have additional rights:
-- Right to know what personal information is collected
-- Right to know if personal information is sold or disclosed
-- Right to opt-out of sale (we do not sell personal data)
-- Right to deletion
-- Right to non-discrimination
+- **Access:** Request a copy of your data
+- **Rectification:** Correct inaccurate information
+- **Erasure:** Request deletion ("right to be forgotten")
+- **Restriction:** Limit how we use your data
+- **Portability:** Receive your data in a portable format
+- **Objection:** Object to certain uses of your data
 
-### 7.3 Managing Your Information
-- **Account Settings:** Update profile information anytime
-- **Privacy Settings:** Control visibility of your content
-- **Notifications:** Manage email and push notification preferences
-- **Location:** Disable location services in device settings
-- **Instagram Connection:** Revoke access through Instagram settings
+To exercise any right, email: ebikesflorence@gmail.com
 
-### 7.4 Exercising Your Rights
-Contact us at ebikesflorence@gmail.com to exercise any rights. We will respond within 30 days (or 45 days for complex requests).
+## 10. Instagram Integration Details
 
-## 8. Data Security
+### 10.1 What We Access
+- Only information you explicitly authorize
+- We never see your Instagram password
+- We comply with Instagram Platform Policy
+- Access tokens are encrypted and regularly refreshed
 
-We implement appropriate technical and organizational measures to protect your information:
+### 10.2 Revoking Access
+You can disconnect our app at any time:
+- Through Instagram Settings → Apps and Websites
+- By emailing us at ebikesflorence@gmail.com
+- Through the app's settings menu
 
-- Encryption in transit (TLS/SSL)
-- Encryption at rest for sensitive data
-- Regular security audits
-- Access controls and authentication
-- Secure development practices
-- Incident response procedures
+## 11. Data Security
 
-However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security.
+We protect your information through:
+- SSL encryption for data transmission
+- Secure cloud storage providers
+- Limited access on need-to-know basis
+- Regular security reviews
+- Compliance with Italian data protection law
 
-## 9. International Data Transfers
+## 12. International Data Transfers
 
-Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place:
+Your data may be processed outside Italy:
+- Instagram/Meta servers (USA)
+- Cloud services (EU and USA)
+We ensure appropriate safeguards through Standard Contractual Clauses.
 
-- Standard Contractual Clauses (for EEA data)
-- Privacy Shield principles (where applicable)
-- Adequacy decisions by the European Commission
+## 13. Children's Privacy
 
-## 10. Children's Privacy
+Our tours and app are available to all ages, but the app requires:
+- Users under 13: Not permitted to create accounts
+- Users 13-18: Parental consent required
+- We don't knowingly collect data from children under 13
 
-Our service is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we discover such information, we will promptly delete it.
+## 14. Changes to This Policy
 
-For users aged 13-18:
-- Parental consent may be required in some jurisdictions
-- Certain features may be restricted
+We may update this policy to reflect:
+- Changes in our creator program
+- New features in the app
+- Legal requirements
 
-## 11. Third-Party Links and Services
+We'll notify you via email and app notification for material changes.
 
-The App may contain links to third-party websites, services, or social media platforms:
-- Instagram/Meta platforms
-- Restaurant websites
-- Payment providers
+## 15. Italian Privacy Law Compliance
 
-We are not responsible for the privacy practices of these third parties. Please review their privacy policies.
+In addition to GDPR, we comply with:
+- Italian Privacy Code (Codice Privacy)
+- Garante per la protezione dei dati personali guidelines
+- Tourism industry regulations
 
-## 12. Instagram/Meta Integration
+## 16. Contact Us
 
-When you connect your Instagram account:
-- We access only the permissions you grant
-- We comply with Instagram's Platform Policy
-- You can revoke access anytime through Instagram Settings
-- We don't store Instagram passwords
-- We refresh access tokens securely
-
-**Data We May Access from Instagram:**
-- Basic account information
-- Public content
-- Account insights (with permission)
-- Engagement metrics (where available)
-
-## 13. Cookies and Tracking Technologies
-
-The App may use cookies and similar technologies:
-
-- **Essential Cookies:** Required for app functionality
-- **Analytics Cookies:** To understand usage patterns
-- **Preference Cookies:** To remember your settings
-
-You can manage cookie preferences in your device settings.
-
-## 14. Push Notifications
-
-We may send push notifications for:
-- Service updates
-- Account notifications
-- New features
-- Security alerts
-
-You can disable push notifications in your device settings.
-
-## 15. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of material changes by:
-- Posting the new Privacy Policy in the App
-- Sending an email notification
-- Displaying an in-app notice
-
-Your continued use after changes constitutes acceptance of the updated policy.
-
-## 16. Data Protection Officer
-
-For privacy-related inquiries or to exercise your rights, contact:
-
-John Shields  
-Email: ebikesflorence@gmail.com  
-Phone: +39 344 345 5320  
-Response time: Within 30 days
-
-## 17. Supervisory Authority
-
-If you're unsatisfied with our response, you have the right to lodge a complaint with your local data protection authority:
-
-**For EEA residents:** Your local Data Protection Authority  
-**For UK residents:** Information Commissioner's Office (ICO)  
-**For California residents:** California Attorney General's Office
-
-## 18. Additional Provisions for Specific Regions
-
-### 18.1 European Union
-- Legal basis for each processing activity
-- Data minimization principles
-- Privacy by design and default
-- Data Protection Impact Assessments where required
-
-### 18.2 California (CCPA/CPRA)
-- "Do Not Sell" rights (we don't sell personal data)
-- Categories of information collected
-- Business purposes for collection
-- Third parties with whom we share data
-
-### 18.3 Brazil (LGPD)
-- Legal basis similar to GDPR
-- Data subject rights
-- International transfer safeguards
-
-## 19. Consent Management
-
-You may withdraw consent at any time for:
-- Marketing communications
-- Optional data processing
-- Third-party integrations
-
-Withdrawal of consent doesn't affect the lawfulness of processing before withdrawal.
-
-## 20. Contact Us
-
-For questions about this Privacy Policy or our privacy practices:
+For privacy questions or to exercise your rights:
 
 **E-Bikes Florence di John Shields**  
 Via San Gallo, 97R  
@@ -292,9 +208,13 @@ Email: ebikesflorence@gmail.com
 Phone: +39 344 345 5320  
 VAT: IT01915530479  
 
+**Supervisory Authority:**  
+Garante per la protezione dei dati personali (Italian DPA)  
+Website: www.garanteprivacy.it
+
 ---
 
-**Document Version:** 1.0  
+**Document Version:** 1.1  
 **Policy Identifier:** EBF-PRIVACY-2025-001
 
 © 2025 E-Bikes Florence di John Shields. All rights reserved.

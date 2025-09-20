@@ -3,316 +3,209 @@
 **Effective Date:** September 20, 2025  
 **Last Updated:** September 20, 2025
 
-## 1. Acceptance of Terms
+## 1. Introduction
 
-By downloading, installing, or using our mobile application ("App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+These Terms of Service ("Terms") govern your use of the E-Bikes Florence Creator Platform ("App"), operated by E-Bikes Florence di John Shields. Our App connects Instagram content creators with our bicycle tour business to promote authentic Florence tourism experiences.
 
-These Terms constitute a legally binding agreement between you and E-Bikes Florence di John Shields ("we," "our," or "us").
+By using our App, you agree to these Terms. If you don't agree, please don't use the App.
 
-## 2. Description of Service
+**Our Business:**  
+E-Bikes Florence di John Shields  
+Via San Gallo, 97R, Firenze, 50129, Italy  
+VAT: IT01915530479  
+Email: ebikesflorence@gmail.com  
+Phone: +39 344 345 5320
 
-Our App provides a platform for discovering and engaging with local content and services. Features may include:
+## 2. What Our App Does
 
-- Content discovery and browsing
-- User-generated content
-- Social features and interactions
-- Location-based services
-- Third-party integrations
+The E-Bikes Florence Creator Platform:
+- **Connects** Instagram creators who have experienced our tours with our business
+- **Showcases** authentic content from real tour participants
+- **Rewards** creators who help promote Florence tourism
+- **Builds** a community of Florence tourism ambassadors
 
-## 3. Eligibility
+This is NOT a general social media app. It specifically serves to:
+- Document E-Bikes Florence tour experiences
+- Share authentic Florence tourism content
+- Support local tourism through creator partnerships
 
-### 3.1 Age Requirements
-- You must be at least 13 years old to use our service
-- Users under 18 may require parental consent
-- Certain features may be restricted based on age
+## 3. Who Can Use Our App
 
-### 3.2 Account Requirements
-- You must provide accurate and complete information
-- You are responsible for maintaining account security
-- One account per person
-- You must have the legal capacity to enter into contracts
+### 3.1 Eligibility
+- You must be at least 13 years old
+- If under 18, you need parental consent
+- You must have taken or plan to take an E-Bikes Florence tour
+- You must have an Instagram account to access creator features
 
-## 4. User Accounts
+### 3.2 Account Types
 
-### 4.1 Account Types
+**Tour Participants**
+- Browse creator content from our tours
+- View tour information and routes
+- Book E-Bikes Florence experiences
 
-**Standard Users**
-- Browse and discover content
-- Create and share content
-- Interact with other users
-- Access basic features
+**Content Creators**
+- Must have an Instagram Business or Creator account
+- Must have experienced our tours
+- Can earn rewards for promoting Florence tourism
+- Get access to analytics and performance metrics
 
-**Professional Accounts**
-- All standard user features
-- Access to analytics
-- Additional features
-- Subject to additional terms
+**Partner Businesses**
+- Local Florence businesses we collaborate with
+- Can view aggregated tourism impact data
+- Subject to separate partnership agreements
 
-**Business Accounts**
-- Manage business presence
-- Access business tools
-- View analytics
-- Enhanced features
+## 4. Creator Program
 
-### 4.2 Account Responsibilities
-- Keep login credentials confidential
-- Notify us of unauthorized access
-- Responsible for all activity under your account
-- Maintain accurate account information
+### 4.1 How It Works
+- Take an E-Bikes Florence tour
+- Create Instagram content about your experience
+- Connect your Instagram account to our app
+- Tag @ebikesflorence or use our hashtags
+- Earn rewards based on content performance
 
-## 5. User Content
+### 4.2 Creator Rewards
+- Discounts on future tours
+- Special creator-only experiences
+- Recognition as Florence Tourism Ambassador
+- Potential collaboration opportunities
 
-### 5.1 Content License
-By posting content on our App, you grant us a non-exclusive, royalty-free, worldwide, perpetual license to:
-- Display your content in the App
-- Use for promotional purposes
-- Modify for technical requirements
-- Create derivative works
-- Sublicense to partners for service delivery
+### 4.3 Content Requirements
+Your content must:
+- Be authentic and based on real experiences
+- Not misrepresent our tours or Florence
+- Comply with Instagram's Terms of Service
+- Respect other participants' privacy
+- Follow Italian advertising disclosure laws
 
-### 5.2 Content Standards
-You agree not to post content that:
-- Violates any laws or regulations
-- Infringes intellectual property rights
-- Contains false or misleading information
-- Is defamatory, harassing, or threatening
-- Contains malware or harmful code
-- Violates privacy rights
-- Promotes illegal activities
-- Is sexually explicit or inappropriate
-- Discriminates against protected groups
+## 5. Content Rights
 
-### 5.3 Content Removal
-We reserve the right to remove content that violates these Terms without notice.
+### 5.1 Your Content
+- You own all content you create
+- You grant us permission to share your public tour-related posts
+- We will always credit you as the creator
+- You can request removal of your content from our platform
 
-## 6. Professional Program Terms
+### 5.2 Our Use of Your Content
+By participating in our creator program, you allow us to:
+- Feature your content on our website and app
+- Share it on our social media channels (with credit)
+- Include it in Florence tourism promotional materials
+- Use it to improve our tour experiences
 
-### 6.1 Eligibility
-- Must meet account requirements
-- Must be 18+ or have parental consent
-- Must provide required information
-- Must comply with guidelines
+### 5.3 Our Content
+All E-Bikes Florence branding, tour routes, and materials are our property and protected by intellectual property laws.
 
-### 6.2 Program Benefits
-- Access to additional features
-- Analytics and insights
-- Potential monetization opportunities
-- Enhanced visibility
+## 6. Prohibited Conduct
 
-### 6.3 Obligations
-- Maintain authentic content
-- Comply with applicable guidelines
-- Not engage in fraudulent activities
-- Maintain professional standards
+You agree NOT to:
+- Misrepresent your relationship with E-Bikes Florence
+- Create fake or misleading content about our tours
+- Share other participants' personal information
+- Use our platform to promote competing tour operators
+- Violate Instagram's Terms of Service
+- Engage in any illegal activities
 
-## 7. Transactions
+## 7. Tour Bookings and Cancellations
 
-### 7.1 General Terms
-- Transactions may occur between users and third parties
-- We may facilitate but are not party to transactions
-- Users responsible for compliance with terms
-- We don't guarantee availability or outcomes
+### 7.1 Bookings
+- Tour bookings are subject to availability
+- Prices are as advertised on our website
+- All bookings must be paid in advance
+- Creator discounts are non-transferable
 
-### 7.2 Payments
-- Payment processing handled by third parties
-- Subject to payment processor terms
-- Disputes handled per applicable policies
-- Users responsible for taxes
+### 7.2 Cancellations
+- Full refund if cancelled 48+ hours in advance
+- 50% refund if cancelled 24-48 hours in advance
+- No refund if cancelled less than 24 hours in advance
+- We may cancel due to weather or safety concerns (full refund)
 
-## 8. Prohibited Uses
+## 8. Privacy and Data Protection
 
-You agree not to:
-- Violate any laws or regulations
-- Impersonate others or misrepresent affiliation
-- Engage in fraudulent activities
-- Scrape or harvest data
-- Interfere with App operation
-- Circumvent security measures
-- Use automated systems without permission
-- Engage in commercial activities without authorization
-- Harass or harm other users
-- Manipulate rankings or reviews
+Your use of our App is subject to our Privacy Policy. Key points:
+- We access only Instagram data you authorize
+- We comply with GDPR and Italian privacy law
+- We never sell your personal data
+- You can delete your data at any time
 
-## 9. Intellectual Property
+## 9. Instagram Integration
 
-### 9.1 Our Property
-All App content, features, and functionality are owned by E-Bikes Florence di John Shields and protected by intellectual property laws:
-- Trademarks
-- Copyrights
-- Trade secrets
-- Patents
+### 9.1 Requirements
+- You must comply with Instagram's Terms of Service
+- You must have appropriate rights to all content you share
+- You must disclose paid partnerships as required by law
 
-### 9.2 Your Rights
-You retain ownership of content you create, subject to the license granted to us.
-
-### 9.3 Third-Party Content
-- Instagram content subject to Meta's terms
-- Restaurant information owned by establishments
-- User content owned by respective users
-
-## 10. Privacy
-
-Your use of the App is subject to our Privacy Policy, which is incorporated by reference into these Terms.
-
-## 11. Third-Party Services
-
-### 11.1 Instagram/Meta Integration
-- Subject to Instagram's Terms of Use
+### 9.2 Disclaimer
+- We are not affiliated with Meta/Instagram
+- Instagram may change their policies at any time
 - We're not responsible for Instagram's actions
-- You can revoke access anytime
 
-### 11.2 Other Services
-- Google Maps for navigation
-- Payment processors
-- Analytics services
-- Cloud hosting providers
+## 10. Disclaimers and Limitations
 
-## 12. Disclaimers
+### 10.1 Service Availability
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE." We don't guarantee:
+- Continuous, uninterrupted access
+- Error-free operation
+- Specific results from creator program participation
 
-### 12.1 Service Availability
-THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND.
+### 10.2 Tour Experiences
+- We strive for excellent tours but cannot guarantee perfect weather or conditions
+- Participants must follow safety guidelines
+- We're not liable for accidents due to participant negligence
 
-### 12.2 Third-Party Content
-- We don't guarantee accuracy of information
-- Not responsible for third-party services
-- Not liable for user interactions
+### 10.3 Creator Program
+- Rewards are subject to availability and may change
+- We don't guarantee any level of engagement or success
+- Creator status can be revoked for Terms violations
 
-### 12.3 User Content
-- We don't endorse user content
-- Not responsible for content accuracy
-- Users responsible for their content
+## 11. Limitation of Liability
 
-## 13. Limitation of Liability
+To the maximum extent permitted by Italian and EU law:
+- We're not liable for indirect or consequential damages
+- Our total liability is limited to the amount you paid us in the past 12 months
+- This doesn't limit liability for gross negligence or willful misconduct
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW:
+## 12. Indemnification
 
-- We are not liable for indirect, incidental, special, or consequential damages
-- Our total liability is limited to $100 or amount paid to us in past 12 months
-- Some jurisdictions don't allow limitations, so this may not apply to you
-
-## 14. Indemnification
-
-You agree to indemnify and hold harmless E-Bikes Florence di John Shields from claims arising from:
+You agree to indemnify E-Bikes Florence di John Shields from claims arising from:
 - Your use of the App
 - Your content
 - Violation of these Terms
-- Violation of third-party rights
-- Your violations of law
+- Violation of others' rights
+- Your tour participation
 
-## 15. Termination
+## 13. Termination
 
-### 15.1 By You
-You may terminate by:
-- Deleting your account
-- Uninstalling the App
-- Ceasing use
+### 13.1 By You
+- Delete your account at any time
+- Request data deletion via email
 
-### 15.2 By Us
-We may terminate or suspend your account for:
-- Violation of Terms
-- Fraudulent activity
-- Inactivity
+### 13.2 By Us
+We may suspend or terminate your account for:
+- Violating these Terms
+- Creating false or misleading content
+- Inappropriate behavior on tours
+- Illegal activities
+
+## 14. Governing Law
+
+These Terms are governed by:
+- Italian law
+- European Union regulations
+- Exclusive jurisdiction of Florence courts
+
+## 15. Changes to Terms
+
+We may update these Terms to reflect:
+- Changes in our services
 - Legal requirements
+- Business needs
 
-### 15.3 Effects of Termination
-- Access to account terminated
-- Content may be deleted
-- Commissions forfeited if fraudulent
-- Certain provisions survive termination
+We'll notify you of material changes via email or app notification.
 
-## 16. Dispute Resolution
+## 16. Contact Information
 
-### 16.1 Informal Resolution
-First attempt to resolve disputes informally by contacting us.
-
-### 16.2 Arbitration
-Disputes not resolved informally will be resolved through binding arbitration, except:
-- Small claims court eligible disputes
-- Injunctive relief for IP violations
-
-### 16.3 Class Action Waiver
-You waive the right to participate in class actions.
-
-## 17. General Provisions
-
-### 17.1 Governing Law
-These Terms are governed by the laws of Italy and the European Union, without regard to conflict of law provisions.
-
-### 17.2 Entire Agreement
-These Terms constitute the entire agreement between you and E-Bikes Florence di John Shields.
-
-### 17.3 Severability
-If any provision is found unenforceable, the remaining provisions continue in effect.
-
-### 17.4 Waiver
-Our failure to enforce any right or provision is not a waiver.
-
-### 17.5 Assignment
-We may assign these Terms. You may not assign without our consent.
-
-## 18. Changes to Terms
-
-We may modify these Terms at any time. We will notify you of material changes by:
-- In-app notification
-- Email notification
-- Posting updated Terms
-
-Continued use after changes constitutes acceptance.
-
-## 19. Professional Account Addendum
-
-Professional accounts are subject to additional terms:
-
-### 19.1 Content Rights
-- Grant us license to use your content
-- Warrant you own or have rights to content
-- Maintain content quality standards
-
-### 19.2 Program Terms
-- Benefits subject to verification
-- Fraudulent activity results in termination
-- Tax obligations are your responsibility
-- Terms and benefits may change
-
-### 19.3 Performance Standards
-- Maintain activity levels
-- Respond to inquiries as appropriate
-- Update content regularly
-- Maintain professional conduct
-
-## 20. Business Account Addendum
-
-Businesses are subject to additional terms:
-
-### 20.1 Account Information
-- Provide accurate business information
-- Update changes promptly
-- Maintain current details
-
-### 20.2 Business Obligations
-- Comply with applicable regulations
-- Maintain professional standards
-- Honor commitments
-
-## 21. DMCA Notice
-
-If you believe content infringes your copyright, send notice to:
-
-E-Bikes Florence di John Shields  
-Attn: John Shields  
-Email: ebikesflorence@gmail.com
-
-Include:
-- Identification of copyrighted work
-- Identification of infringing material
-- Contact information
-- Statement of good faith belief
-- Statement of accuracy under penalty of perjury
-- Physical or electronic signature
-
-## 22. Contact Information
-
-For questions about these Terms:
+For questions about these Terms or our services:
 
 **E-Bikes Florence di John Shields**  
 Via San Gallo, 97R  
@@ -321,34 +214,32 @@ Italy
 
 Email: ebikesflorence@gmail.com  
 Phone: +39 344 345 5320  
-VAT: IT01915530479
+VAT: IT01915530479  
 
-## 23. Definitions
+Website: www.ebikesflorence.com
 
-- **App**: Our mobile application
-- **Content**: Text, photos, videos, and other materials
-- **Professional**: Users with professional accounts
-- **Services**: All services provided through the App
-- **User**: Anyone who uses the App
+## 17. Special Provisions
 
-## 24. Platform-Specific Terms
+### 17.1 Italian Tourism Law
+We comply with all Italian tourism regulations, including:
+- Tour operator licensing requirements
+- Safety standards for bicycle tours
+- Insurance requirements
+- Tax obligations
 
-### 24.1 iOS/Apple App Store
-- Subject to Apple's Terms of Service
-- Apple is not party to these Terms
-- Apple has no obligation to provide support
+### 17.2 Content Creator Disclosure
+Creators must comply with:
+- Italian advertising disclosure laws
+- FTC guidelines (for US creators)
+- Instagram's branded content policies
 
-### 24.2 Android/Google Play Store
-- Subject to Google Play Terms of Service
-- Google is not party to these Terms
+## 18. Acknowledgment
 
-## 25. Acknowledgment
-
-BY USING THE APP, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS OF SERVICE, UNDERSTAND THEM, AND AGREE TO BE BOUND BY THEM.
+BY USING THE APP, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THESE TERMS AND AGREE TO BE BOUND BY THEM.
 
 ---
 
-**Document Version:** 1.0  
+**Document Version:** 1.1  
 **Terms Identifier:** EBF-TOS-2025-001
 
 © 2025 E-Bikes Florence di John Shields. All rights reserved.

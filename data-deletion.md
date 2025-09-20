@@ -5,188 +5,190 @@
 
 ## Overview
 
-E-Bikes Florence di John Shields respects your right to privacy and control over your personal data. This policy explains how to request deletion of your data and what happens when you do.
+E-Bikes Florence di John Shields respects your right to control your personal data. As a tour operator connecting with Instagram creators to promote Florence tourism, we understand the importance of data privacy. This policy explains how to request deletion of your data from our Creator Platform.
+
+## Our Commitment
+
+As a local Florence business, we:
+- Comply with GDPR and Italian privacy law
+- Respect content creators' rights
+- Handle tour participant data responsibly
+- Support transparent data practices
 
 ## How to Request Data Deletion
 
-You can request deletion of your data in the following ways:
+### Primary Method: Email
 
-### 1. Through the App
-- Go to Settings → Privacy → Delete My Data
-- Confirm your identity
-- Submit deletion request
-
-### 2. Via Email
-Send a request to: **ebikesflorence@gmail.com**
+Send your deletion request to: **ebikesflorence@gmail.com**
 
 Include:
-- Your account email address
-- Your username
+- Your name
+- Email address associated with your account
+- Instagram username (if you're a connected creator)
 - Statement: "I request deletion of my personal data"
 
-### 3. For Instagram-Connected Accounts
-- You can also revoke access through Instagram:
-  - Instagram Settings → Apps and Websites → Remove our App
-- This triggers our deletion process automatically
+We will:
+1. Acknowledge receipt within 24 hours
+2. Verify your identity for security
+3. Complete deletion within 30 days
+4. Send confirmation when complete
 
-## What Data We Delete
+### For Instagram-Connected Creators
 
-When you request deletion, we remove:
+You can also disconnect our app through Instagram:
+1. Go to Instagram Settings
+2. Select Apps and Websites
+3. Find E-Bikes Florence Creator Platform
+4. Select Remove
 
-### Immediately Deleted (within 24 hours)
-- Profile information (name, email, photo)
-- User-generated content (reviews, photos, comments)
-- Preferences and settings
-- Search history
-- Location history
-- App usage data
-- Instagram connection data
+This automatically triggers our deletion process for Instagram-related data.
 
-### Retained for Legal Compliance (up to 7 years)
-- Transaction records (for tax purposes)
-- Commission payment records
-- Legal dispute documentation
-- Security incident logs
+## What We Delete
+
+### Immediately Deleted (within 30 days)
+- Your account information (name, email, phone)
+- Instagram connection data and tokens
+- Creator program participation records
+- Your preferences and app settings
+- Links to your Instagram content
+- Performance metrics from our app
+
+### What We Must Keep (Legal Requirements)
+
+As an Italian business, we must retain certain records:
+
+**For 10 Years (Italian Tax Law):**
+- Tour booking invoices
+- Payment records
+- VAT documentation
+- Creator reward payments
+
+**For 5 Years (Italian Civil Code):**
+- Tour participation waivers
+- Insurance claims (if any)
+- Business correspondence related to services
 
 ### Anonymized Data
-- Analytics data is anonymized and retained
-- Aggregate statistics with no personal identifiers
 
-## Deletion Timeline
+We may keep anonymized data for:
+- Tourism impact studies
+- Tour route improvements
+- General Florence tourism statistics
 
-- **Acknowledgment:** Within 24 hours
-- **Verification:** 1-3 business days
-- **Deletion Process:** Within 30 days
-- **Confirmation:** Email sent when complete
+This data cannot be linked back to you.
 
-## Instagram Data
+## Creator Content
 
-When you disconnect Instagram or request deletion:
-- We delete all Instagram access tokens immediately
-- Cached Instagram data removed within 24 hours
-- We notify Meta of the disconnection
-- You can verify removal in Instagram Settings
+### Your Instagram Posts
+- We only store links to your public posts
+- When you request deletion, we remove all stored links
+- Your actual Instagram content remains under your control
+- We cannot delete content from Instagram (only you can)
 
-## Professional Account Deletion
+### Featured Content
+- If we've featured your content, we'll remove it from our platforms
+- Printed materials may take longer to update
+- We'll note your content should no longer be used
 
-For Professional accounts, additional steps apply:
-- Pending transactions will be completed
-- After final processing, data deleted
-- Content attribution may be anonymized
-- Tax records retained per legal requirements
+## Special Considerations for Creators
 
-## Data Portability
+### Active Rewards
+If you have pending creator rewards:
+- We'll process any earned rewards before deletion
+- Payment information retained only for legal compliance
+- You'll receive a final statement
 
-Before deletion, you can request a copy of your data:
-- Email **ebikesflorence@gmail.com**
-- We'll provide data in JSON format
-- Delivered within 30 days
-
-## Exceptions to Deletion
-
-We may retain certain data when:
-- Required by law
-- Necessary for legal claims
-- Fraud prevention
-- Security purposes
-- Completing pending transactions
-
-## Backup Systems
-
-- Data in backups deleted within 90 days
-- Backups are encrypted and access-controlled
-- Deletion logs maintained for compliance
+### Content Attribution
+- We'll remove your name from our creator list
+- Analytics data will be anonymized
+- Your tour history will be deleted
 
 ## Verification Process
 
-To protect your privacy, we verify identity before deletion:
-- Email verification
-- Account credentials
-- Additional verification if suspicious activity
+To protect your privacy, we verify identity through:
+- Email confirmation to your registered address
+- Request details matching our records
+- Additional verification if suspicious activity detected
+
+## Timeline
+
+1. **Request Received**: Immediate
+2. **Acknowledgment**: Within 24 hours
+3. **Verification**: 1-3 business days
+4. **Deletion Process**: Within 30 days
+5. **Confirmation**: Sent when complete
 
 ## Effects of Deletion
 
 After deletion:
-- Cannot recover your account
-- Cannot access previous content
-- Must create new account to use service
-- Professional account history lost
-- Transaction history removed
+- You cannot access your creator account
+- Creator rewards history is lost
+- You'll need to create a new account for future tours
+- We cannot recover deleted data
 
-## Third-Party Services
+However:
+- You can still book tours as a regular customer
+- Past tour participations remain valid
+- You can rejoin the creator program later
 
-We request deletion from integrated services:
-- Instagram/Meta platforms
-- Payment processors
-- Analytics providers
-- Cloud storage services
+## Your Rights Under GDPR
 
-Note: Third parties have their own deletion timelines.
+As an EU business, we guarantee your rights to:
+- **Access**: Get a copy of your data
+- **Rectification**: Correct wrong information
+- **Erasure**: Delete your data (this policy)
+- **Restriction**: Limit processing
+- **Portability**: Export your data
+- **Objection**: Object to specific uses
 
-## Withdrawal of Deletion Request
+## Data Portability
 
-You can cancel a deletion request:
-- Within 7 days of request
-- Email **ebikesflorence@gmail.com**
-- Must verify identity
-
-## Children's Data
-
-For users under 18:
-- Parent/guardian can request deletion
-- Expedited processing (within 72 hours)
-- Additional verification may be required
-
-## Your Rights
-
-Under applicable laws (GDPR, CCPA), you have the right to:
-- Request deletion ("right to be forgotten")
-- Know what data we have
-- Correct inaccurate data
-- Object to processing
-- Data portability
-
-## Contact Information
-
-**For deletion requests:**  
-Email: ebikesflorence@gmail.com
-
-**Data Protection Contact:**  
-John Shields  
-Email: ebikesflorence@gmail.com  
-Phone: +39 344 345 5320
-
-**Response time:** Within 30 days
+Before deletion, you can request your data in JSON format:
+- Email ebikesflorence@gmail.com
+- We'll prepare your data export
+- Delivered within 30 days
 
 ## Complaints
 
-If you're unsatisfied with our handling:
+If you're unsatisfied with our response:
 
-**Italian Users:** Garante per la protezione dei dati personali  
-**EU Users:** Contact your local Data Protection Authority  
-**UK Users:** Information Commissioner's Office (ICO)  
-**California Users:** California Attorney General  
+**Primary Authority:**  
+Garante per la protezione dei dati personali  
+Piazza Venezia 11, 00187 Roma  
+Website: www.garanteprivacy.it  
+Email: protocollo@gpdp.it
 
-## Compliance Certifications
+**Other Authorities:**  
+- Your local EU Data Protection Authority
+- For UK residents: Information Commissioner's Office
+- For California residents: California Attorney General
 
-E-Bikes Florence di John Shields complies with:
-- GDPR (General Data Protection Regulation)
-- Italian Privacy Law (Codice Privacy)
-- CCPA (California Consumer Privacy Act)
-- Instagram Platform Policy
-- Apple App Store Guidelines
-- Google Play Store Policies
+## Contact Information
+
+**Data Protection Contact:**  
+John Shields  
+E-Bikes Florence di John Shields  
+Via San Gallo, 97R  
+Firenze, Toscana, 50129, Italy  
+
+Email: ebikesflorence@gmail.com  
+Phone: +39 344 345 5320  
+VAT: IT01915530479
+
+**Response Time:** Within 30 days (45 days for complex requests)
 
 ## Updates to This Policy
 
-We may update this policy. Changes will be:
-- Posted in the app
-- Sent via email for material changes
-- Effective after 30-day notice period
+We may update this policy for:
+- Legal requirement changes
+- Service improvements
+- Creator program updates
+
+Changes will be posted on our website and app.
 
 ---
 
-**Document Version:** 1.0  
+**Document Version:** 1.1  
 **Policy Identifier:** EBF-DELETION-2025-001
 
 © 2025 E-Bikes Florence di John Shields. All rights reserved.
